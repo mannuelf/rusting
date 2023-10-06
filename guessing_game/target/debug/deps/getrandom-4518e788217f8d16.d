@@ -1,0 +1,11 @@
+/home/falcon9/workspace/rusting/guessing_game/target/debug/deps/getrandom-4518e788217f8d16.rmeta: /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/falcon9/workspace/rusting/guessing_game/target/debug/deps/getrandom-4518e788217f8d16.d: /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs
+
+/home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs:
+/home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs:
+/home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs:
+/home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs:
+/home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs:
+/home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs:
+/home/falcon9/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/linux_android.rs:
